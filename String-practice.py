@@ -10,4 +10,5 @@ def input_string(string):
 
 
   # test 
-  unput_string('abc123.456')
+  input_string('abc123.456')
+  input_string('abc123')
